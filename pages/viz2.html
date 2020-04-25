@@ -5,7 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
 		<!-- TODO: Change title -->
-		<title>Granger HW3</title>
+		<title>Granger HW4</title>
 
 		<!-- Load Bulma from CDN (consider saving it to repository instead) -->
 		<!-- https://bulma.io/ -->
@@ -19,19 +19,20 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
 
 		<!-- Custom JS and CSS-->
-		<script src="../js/viz.js"></script>
-		<link href="../css/viz.css" rel="stylesheet" type="text/css">
+		<script src="../js/viz2.js"></script>
+		<script src="../js/common.js"></script>
+		<link href="../css/viz2.css" rel="stylesheet" type="text/css">
 	</head>
 
 	<body>
 
 		<!-- Page header -->
-		<section class="hero is-warning is-bold">
+		<section class="hero is-success is-bold">
 			<div class="hero-body">
 				<div class="container">
-					<h1 class="title">Homework 3</h1>
+					<h1 class="title">Homework 4</h1>
 
-					<h2 class="subtitle">Built to show my visualization for homework 3</h2>
+					<h2 class="subtitle">Built to show my visualizations for homework 4</h2>
 				</div>
 			</div>
 		</section>
@@ -56,9 +57,13 @@
 				<div id="main-menu" class="navbar-menu has-text-weight-medium">
 					<!-- Left navbar items -->
 					<div class="navbar-start">
+						<a class="navbar-item" href="./viz1.html">
+							<span class="icon"><i class="fas fa-map"></i></span>
+							<span>Cluster Viz</span>
+						</a>
 						<a class="navbar-item" href="#viz">
 							<span class="icon"><i class="fas fa-map"></i></span>
-							<span>Choropleth Map</span>
+							<span>Pack Viz</span>
 						</a>
 
 					</div>
@@ -93,43 +98,19 @@
 
 					<p>For interactivity, I provided details on demand, so if a user hovers over any neighborhood on the map, a table appears with the neighborhood name, and a count of the vehicles which were reported abandoned.</p>
 
-					<h2 id="data">Data</h2>
-
-					<p>This data set is composed of information over 4 million reports to San Francisco's 311 hotline, which was made available by the city <a href="https://data.sfgov.org/City-Infrastructure/311-Cases/vw6y-z8j6">here</a>. Using their public API, I was able to filter by a couple relevant columns, to get the exact data I wanted. The relevant columns that I used in this visualization are:</p>
-
-
-					<ul>
-						<li><strong>Opened:</strong> The Date and time this report was opened. I used this column to filter down to only cases that were opened in February.</li>
-
-						<li><strong>Category:</strong> The category of this report. I filtered down the category to focus on just abandoned vehicles. </li>
-
-						<li><strong>Request Details:</strong> This column contains additional information about the request. I used it to filter out reports with "DPT Abandoned Vehicles Low". This is a special case designate by the city, which I deemed irrelevant to this visualization. </li>
-
-						<li><strong>Neighborhood:</strong> This is the neighborhood that the report is from. In D3, I used this column to generate a count of abandoned vehicles for each neighborhood. </li>
-
-					</ul>
-
 					<h2 id="visualizations">D3 Implementation</h2>
 
-					<!-- Initialize a select button -->
-<!-- 					<select id="selectButton">
-						<option value=" None">---</option>
-						<option value=" Car2door">Coupe</option>
-						<option value=" Car4door">Sedan</option>
-						<option value="SUV">SUV</option>
-						<option value="PickupTruck">Pickup Truck</option>
-						<option value="DeliveryTruck">Delivery Truck</option>
-						<option value="Other">Other</option>
-					</select> -->
-
 					<figure>
-						<svg width="960" height="600" id="vis">
-							<g id="legend"></g>
-							<g id="basemap"></g>
+						<svg width="1160" height="600" id="vis">
 
-							<!-- turn off pointer events for certain groups -->
-							<g id="outline" pointer-events="none"></g>
-							<g id="details" pointer-events="none"></g>
+							<g id="legend"></g>
+							<g id="plot">
+								<g id="nodes"></g>
+
+								<!-- turn off pointer events for certain groups -->
+								<g id="details" pointer-events="none"></g>
+							</g>
+							
 						</svg>
 
 						<figcaption>
@@ -228,7 +209,12 @@
 		<!-- My core js -->
 		<script type="text/javascript">
 
-			createChoropleth();
+			let rawFile = "../data/raw_data_v3.csv";
+
+			// Calls cleanData() from my common.js, which is used for both visualizations 
+			// to properly format the data. Finally, it uses the callback function to actually
+			// draw the cluster viz.
+			cleanData(rawFile, createTreemap);
 
 
 		</script>

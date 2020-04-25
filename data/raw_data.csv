@@ -1,0 +1,585 @@
+Neighborhooods - Analysis Boundaries,Call Type,Call Type Group,Call Number
+Nob Hill,Other,Non Life-threatening,7
+Twin Peaks,Alarms,Alarm,37
+Chinatown,Traffic Collision,Non Life-threatening,3
+Presidio,Alarms,Alarm,45
+West of Twin Peaks,Citizen Assist / Service Call,Alarm,17
+Potrero Hill,Traffic Collision,Non Life-threatening,9
+Russian Hill,Medical Incident,Potentially Life-Threatening,152
+Portola,Citizen Assist / Service Call,Alarm,7
+Lakeshore,Citizen Assist / Service Call,Alarm,20
+Nob Hill,Traffic Collision,Potentially Life-Threatening,2
+Haight Ashbury,Other,Alarm,9
+Mission,Citizen Assist / Service Call,Alarm,32
+Noe Valley,Other,,3
+Excelsior,Medical Incident,,7
+Oceanview/Merced/Ingleside,Traffic Collision,Potentially Life-Threatening,16
+Bayview Hunters Point,Electrical Hazard,Alarm,6
+Portola,Medical Incident,Non Life-threatening,69
+Western Addition,Electrical Hazard,Alarm,2
+West of Twin Peaks,Medical Incident,Non Life-threatening,133
+Sunset/Parkside,Other,Non Life-threatening,7
+None,Medical Incident,Potentially Life-Threatening,3
+Outer Mission,Medical Incident,Potentially Life-Threatening,210
+Western Addition,Odor (Strange / Unknown),Alarm,1
+Tenderloin,Fuel Spill,Alarm,2
+Treasure Island,Electrical Hazard,Alarm,3
+Pacific Heights,Medical Incident,Alarm,2
+Mission,Medical Incident,Non Life-threatening,609
+Noe Valley,Odor (Strange / Unknown),Alarm,1
+Sunset/Parkside,Traffic Collision,Potentially Life-Threatening,7
+Noe Valley,Electrical Hazard,Alarm,2
+Lone Mountain/USF,Smoke Investigation (Outside),Alarm,2
+Lakeshore,Medical Incident,Non Life-threatening,83
+Tenderloin,Other,Alarm,17
+Outer Mission,Outside Fire,Fire,8
+Presidio Heights,Traffic Collision,Potentially Life-Threatening,8
+Tenderloin,Other,Fire,11
+Twin Peaks,Medical Incident,Alarm,1
+Excelsior,Structure Fire,Alarm,42
+Lincoln Park,Medical Incident,Non Life-threatening,1
+Bernal Heights,Traffic Collision,Potentially Life-Threatening,7
+Inner Richmond,Citizen Assist / Service Call,Alarm,1
+Presidio Heights,Other,Non Life-threatening,1
+Haight Ashbury,Smoke Investigation (Outside),Alarm,1
+Castro/Upper Market,Medical Incident,Non Life-threatening,177
+Outer Richmond,Medical Incident,Non Life-threatening,97
+Golden Gate Park,Traffic Collision,Potentially Life-Threatening,12
+McLaren Park,Alarms,Alarm,3
+Bernal Heights,Other,Non Life-threatening,5
+Russian Hill,Outside Fire,Fire,6
+Hayes Valley,Traffic Collision,Non Life-threatening,8
+Lincoln Park,Citizen Assist / Service Call,Alarm,1
+Financial District/South Beach,Other,Non Life-threatening,6
+Marina,Traffic Collision,Potentially Life-Threatening,18
+Outer Mission,Vehicle Fire,Fire,2
+Excelsior,Water Rescue,Fire,1
+South of Market,Other,Alarm,11
+Pacific Heights,Alarms,Alarm,114
+Mission Bay,Electrical Hazard,Alarm,1
+Tenderloin,Smoke Investigation (Outside),Alarm,4
+Outer Richmond,Citizen Assist / Service Call,Alarm,10
+Inner Sunset,Other,Alarm,1
+Lone Mountain/USF,Other,Alarm,3
+Castro/Upper Market,Citizen Assist / Service Call,Alarm,9
+Financial District/South Beach,Traffic Collision,Potentially Life-Threatening,29
+South of Market,Fuel Spill,Alarm,6
+Japantown,Traffic Collision,Non Life-threatening,5
+Inner Richmond,Medical Incident,Non Life-threatening,45
+Sunset/Parkside,Electrical Hazard,Alarm,10
+Noe Valley,Traffic Collision,Potentially Life-Threatening,2
+Hayes Valley,Other,Alarm,7
+Treasure Island,Other,Non Life-threatening,2
+Outer Richmond,Structure Fire,Alarm,35
+South of Market,Traffic Collision,Non Life-threatening,17
+Bayview Hunters Point,Other,Non Life-threatening,6
+Western Addition,Other,Non Life-threatening,1
+Castro/Upper Market,Structure Fire,Alarm,93
+Potrero Hill,Other,Fire,4
+Lone Mountain/USF,Traffic Collision,Non Life-threatening,2
+Excelsior,Medical Incident,Non Life-threatening,87
+Inner Sunset,Traffic Collision,Non Life-threatening,4
+Castro/Upper Market,Elevator / Escalator Rescue,Alarm,1
+Treasure Island,Traffic Collision,Potentially Life-Threatening,10
+Glen Park,Smoke Investigation (Outside),Alarm,5
+Bayview Hunters Point,Traffic Collision,Potentially Life-Threatening,38
+Pacific Heights,Vehicle Fire,Fire,4
+Western Addition,Traffic Collision,Potentially Life-Threatening,13
+Mission,Structure Fire,Fire,36
+Outer Mission,Alarms,Alarm,13
+Outer Richmond,Water Rescue,Fire,18
+West of Twin Peaks,Medical Incident,,6
+Mission,Gas Leak (Natural and LP Gases),Alarm,20
+Inner Richmond,Structure Fire,Alarm,53
+Portola,Medical Incident,,1
+Lakeshore,Gas Leak (Natural and LP Gases),Alarm,3
+Pacific Heights,Outside Fire,Fire,2
+Portola,Gas Leak (Natural and LP Gases),Alarm,3
+Twin Peaks,Medical Incident,Potentially Life-Threatening,64
+Presidio,Medical Incident,Potentially Life-Threatening,23
+Lakeshore,Medical Incident,,3
+West of Twin Peaks,Gas Leak (Natural and LP Gases),Alarm,4
+Hayes Valley,High Angle Rescue,Fire,6
+Mission,Medical Incident,,21
+Excelsior,Citizen Assist / Service Call,Alarm,7
+Russian Hill,Alarms,Alarm,34
+Financial District/South Beach,Electrical Hazard,Alarm,3
+Lakeshore,Water Rescue,Fire,16
+Castro/Upper Market,Gas Leak (Natural and LP Gases),Alarm,9
+Outer Richmond,Gas Leak (Natural and LP Gases),Alarm,6
+Hayes Valley,Smoke Investigation (Outside),Alarm,2
+Castro/Upper Market,Medical Incident,,11
+Outer Richmond,Medical Incident,,11
+Mission Bay,Traffic Collision,Potentially Life-Threatening,4
+Presidio,Outside Fire,Fire,3
+Twin Peaks,Outside Fire,Fire,3
+Pacific Heights,Medical Incident,Potentially Life-Threatening,226
+Tenderloin,Traffic Collision,Non Life-threatening,9
+Marina,Odor (Strange / Unknown),Alarm,1
+North Beach,Other,Alarm,5
+Mission,Structure Fire,Alarm,111
+Chinatown,Other,Alarm,1
+Golden Gate Park,Electrical Hazard,Alarm,1
+Lakeshore,Structure Fire,Alarm,10
+McLaren Park,Medical Incident,Potentially Life-Threatening,7
+Seacliff,Medical Incident,Potentially Life-Threatening,16
+Potrero Hill,Other,Alarm,1
+Inner Richmond,Gas Leak (Natural and LP Gases),Alarm,4
+Haight Ashbury,Traffic Collision,Non Life-threatening,4
+Inner Richmond,Medical Incident,,1
+Portola,Structure Fire,Alarm,33
+Bernal Heights,Electrical Hazard,Alarm,8
+Potrero Hill,Fuel Spill,Alarm,1
+Bernal Heights,Odor (Strange / Unknown),Alarm,2
+Mission,Elevator / Escalator Rescue,Alarm,4
+West of Twin Peaks,Structure Fire,Alarm,42
+Treasure Island,Citizen Assist / Service Call,Alarm,4
+Potrero Hill,Alarms,Alarm,54
+Nob Hill,Structure Fire,Fire,3
+Marina,Structure Fire,Alarm,87
+Tenderloin,Outside Fire,Fire,22
+Chinatown,Alarms,Alarm,111
+Sunset/Parkside,Medical Incident,,11
+Western Addition,Citizen Assist / Service Call,Alarm,17
+Financial District/South Beach,Elevator / Escalator Rescue,Alarm,5
+Bayview Hunters Point,Citizen Assist / Service Call,Alarm,22
+Sunset/Parkside,Gas Leak (Natural and LP Gases),Alarm,7
+Noe Valley,Citizen Assist / Service Call,Alarm,6
+Financial District/South Beach,Structure Fire,Alarm,67
+Golden Gate Park,Water Rescue,Fire,15
+Marina,Elevator / Escalator Rescue,Alarm,1
+Haight Ashbury,Outside Fire,Fire,4
+Bernal Heights,Structure Fire,Alarm,30
+Bayview Hunters Point,Medical Incident,Non Life-threatening,321
+Portola,Electrical Hazard,Alarm,3
+Tenderloin,Vehicle Fire,Fire,2
+Western Addition,Medical Incident,Non Life-threatening,208
+Nob Hill,Medical Incident,,9
+West of Twin Peaks,Electrical Hazard,Alarm,3
+Lone Mountain/USF,Medical Incident,Potentially Life-Threatening,119
+Excelsior,Traffic Collision,Potentially Life-Threatening,2
+Inner Sunset,Medical Incident,Potentially Life-Threatening,164
+Hayes Valley,Medical Incident,Alarm,2
+Sunset/Parkside,Structure Fire,Fire,17
+Presidio Heights,Structure Fire,Alarm,17
+Marina,Water Rescue,Fire,13
+Oceanview/Merced/Ingleside,Medical Incident,,2
+Treasure Island,Medical Incident,Non Life-threatening,48
+Golden Gate Park,Structure Fire,Alarm,4
+South of Market,Medical Incident,Potentially Life-Threatening,1551
+Oceanview/Merced/Ingleside,Gas Leak (Natural and LP Gases),Alarm,1
+North Beach,Alarms,Alarm,97
+Mission,Electrical Hazard,Alarm,6
+Japantown,Medical Incident,Alarm,2
+Noe Valley,Medical Incident,Non Life-threatening,54
+Excelsior,Other,Non Life-threatening,1
+Outer Mission,Smoke Investigation (Outside),Alarm,4
+Outer Richmond,High Angle Rescue,,11
+Financial District/South Beach,Water Rescue,Fire,20
+Nob Hill,Gas Leak (Natural and LP Gases),Alarm,8
+Glen Park,Alarms,Alarm,12
+Inner Sunset,Outside Fire,Fire,3
+Mission Bay,Citizen Assist / Service Call,Alarm,3
+Marina,Gas Leak (Natural and LP Gases),Alarm,8
+Lone Mountain/USF,Outside Fire,Fire,1
+Haight Ashbury,Medical Incident,Potentially Life-Threatening,157
+Visitacion Valley,Alarms,Alarm,12
+Financial District/South Beach,Medical Incident,,3
+Financial District/South Beach,Gas Leak (Natural and LP Gases),Alarm,4
+Russian Hill,Other,Alarm,1
+Sunset/Parkside,Structure Fire,Alarm,63
+Castro/Upper Market,Electrical Hazard,Alarm,1
+South of Market,Outside Fire,Fire,20
+Marina,Medical Incident,,1
+Outer Richmond,Electrical Hazard,Alarm,6
+Nob Hill,Elevator / Escalator Rescue,Alarm,6
+Tenderloin,Medical Incident,Potentially Life-Threatening,2219
+Pacific Heights,Traffic Collision,Non Life-threatening,2
+Bernal Heights,Gas Leak (Natural and LP Gases),Alarm,6
+Lone Mountain/USF,Vehicle Fire,Fire,2
+Hayes Valley,Alarms,Alarm,84
+Presidio Heights,Gas Leak (Natural and LP Gases),Alarm,3
+Mission Bay,Medical Incident,Non Life-threatening,87
+Presidio Heights,Medical Incident,,2
+Oceanview/Merced/Ingleside,Structure Fire,Alarm,10
+None,Other,Alarm,2
+North Beach,Medical Incident,Alarm,3
+Japantown,Alarms,Alarm,36
+Nob Hill,Structure Fire,Alarm,109
+Sunset/Parkside,Water Rescue,Fire,12
+Bernal Heights,Medical Incident,,9
+Inner Richmond,Electrical Hazard,Alarm,3
+Sunset/Parkside,Medical Incident,Non Life-threatening,226
+North Beach,Medical Incident,Potentially Life-Threatening,187
+Nob Hill,Citizen Assist / Service Call,Alarm,12
+Pacific Heights,Other,Alarm,4
+Lakeshore,Traffic Collision,Potentially Life-Threatening,8
+South of Market,Alarms,Alarm,280
+Bayview Hunters Point,Structure Fire,Fire,34
+Oceanview/Merced/Ingleside,Citizen Assist / Service Call,Alarm,3
+Glen Park,Medical Incident,Potentially Life-Threatening,59
+Portola,Other,Non Life-threatening,1
+Castro/Upper Market,HazMat,Alarm,3
+Mission,Traffic Collision,Potentially Life-Threatening,70
+West of Twin Peaks,Traffic Collision,Potentially Life-Threatening,11
+Excelsior,Electrical Hazard,Alarm,2
+Outer Mission,Traffic Collision,Non Life-threatening,6
+Presidio,Other,Fire,13
+Noe Valley,Structure Fire,Fire,13
+Visitacion Valley,Outside Fire,Fire,7
+Tenderloin,Medical Incident,Alarm,3
+North Beach,Outside Fire,Alarm,10
+Portola,Traffic Collision,Potentially Life-Threatening,9
+Inner Sunset,Alarms,Alarm,61
+Lone Mountain/USF,Alarms,Alarm,33
+Hayes Valley,Vehicle Fire,Fire,6
+Mission,Other,Non Life-threatening,5
+Excelsior,Odor (Strange / Unknown),Alarm,1
+Mission Bay,Elevator / Escalator Rescue,Alarm,5
+Treasure Island,Medical Incident,,1
+Oceanview/Merced/Ingleside,Medical Incident,Non Life-threatening,48
+Bayview Hunters Point,Medical Incident,,15
+Noe Valley,Gas Leak (Natural and LP Gases),Alarm,8
+Japantown,Outside Fire,Fire,1
+Nob Hill,Medical Incident,Non Life-threatening,183
+Western Addition,Medical Incident,,8
+Sunset/Parkside,Citizen Assist / Service Call,Alarm,23
+Potrero Hill,Medical Incident,Potentially Life-Threatening,235
+Bayview Hunters Point,Gas Leak (Natural and LP Gases),Alarm,11
+Russian Hill,Traffic Collision,Non Life-threatening,2
+Western Addition,Gas Leak (Natural and LP Gases),Alarm,7
+Hayes Valley,Outside Fire,Fire,9
+Mission Bay,Structure Fire,Alarm,20
+Visitacion Valley,Vehicle Fire,Fire,2
+Chinatown,Medical Incident,Potentially Life-Threatening,169
+Treasure Island,Gas Leak (Natural and LP Gases),Alarm,7
+Financial District/South Beach,Medical Incident,Non Life-threatening,367
+Japantown,Medical Incident,Potentially Life-Threatening,85
+South of Market,Medical Incident,Alarm,1
+Glen Park,Vehicle Fire,Fire,3
+Golden Gate Park,Citizen Assist / Service Call,Alarm,1
+Marina,Medical Incident,Non Life-threatening,94
+Presidio Heights,Citizen Assist / Service Call,Alarm,1
+Chinatown,Outside Fire,Fire,3
+Tenderloin,Alarms,Alarm,366
+Inner Richmond,Other,Non Life-threatening,1
+Bernal Heights,Citizen Assist / Service Call,Alarm,14
+Potrero Hill,Outside Fire,Fire,6
+Hayes Valley,Medical Incident,Potentially Life-Threatening,352
+Castro/Upper Market,Traffic Collision,Potentially Life-Threatening,7
+Glen Park,Outside Fire,Fire,2
+Outer Richmond,Traffic Collision,Potentially Life-Threatening,24
+Golden Gate Park,Medical Incident,Non Life-threatening,13
+North Beach,Outside Fire,Fire,1
+Bayview Hunters Point,Elevator / Escalator Rescue,Alarm,3
+Presidio,Other,Alarm,5
+Financial District/South Beach,Citizen Assist / Service Call,Alarm,6
+Noe Valley,Structure Fire,Alarm,34
+Castro/Upper Market,Other,Non Life-threatening,7
+Tenderloin,Assist Police,Alarm,1
+Western Addition,Structure Fire,Alarm,92
+Bayview Hunters Point,Structure Fire,Alarm,51
+Outer Richmond,Other,Non Life-threatening,3
+Bernal Heights,Medical Incident,Non Life-threatening,74
+Treasure Island,Structure Fire,Alarm,15
+Presidio Heights,Medical Incident,Non Life-threatening,36
+Visitacion Valley,Medical Incident,Potentially Life-Threatening,167
+Haight Ashbury,Alarms,Alarm,63
+Marina,Citizen Assist / Service Call,Alarm,8
+Mission Bay,Gas Leak (Natural and LP Gases),Alarm,3
+Chinatown,Citizen Assist / Service Call,Alarm,3
+Twin Peaks,Other,,1
+Outer Mission,Traffic Collision,Potentially Life-Threatening,5
+West of Twin Peaks,Traffic Collision,Non Life-threatening,10
+Western Addition,Alarms,Alarm,121
+Bayview Hunters Point,Alarms,Alarm,125
+South of Market,Structure Fire,Fire,38
+Portola,Traffic Collision,Non Life-threatening,7
+Treasure Island,Alarms,Alarm,4
+Potrero Hill,Citizen Assist / Service Call,Alarm,2
+Mission,Other,Potentially Life-Threatening,8
+Bernal Heights,Outside Fire,Fire,8
+Haight Ashbury,Structure Fire,Alarm,28
+Financial District/South Beach,Vehicle Fire,Fire,4
+Outer Mission,Other,Non Life-threatening,1
+Sunset/Parkside,Medical Incident,Potentially Life-Threatening,443
+Inner Sunset,Structure Fire,Fire,3
+North Beach,Medical Incident,Non Life-threatening,83
+Lakeshore,Traffic Collision,Non Life-threatening,2
+Glen Park,Medical Incident,Non Life-threatening,24
+Golden Gate Park,Outside Fire,Fire,17
+Noe Valley,Alarms,Alarm,47
+Mission,Traffic Collision,Non Life-threatening,20
+Potrero Hill,Medical Incident,Non Life-threatening,96
+Russian Hill,Traffic Collision,Potentially Life-Threatening,2
+Twin Peaks,Electrical Hazard,Alarm,1
+Tenderloin,Structure Fire,Alarm,170
+Tenderloin,Explosion,Fire,4
+South of Market,Medical Incident,,29
+Lone Mountain/USF,Gas Leak (Natural and LP Gases),Alarm,8
+Marina,Outside Fire,Fire,7
+Inner Sunset,Gas Leak (Natural and LP Gases),Alarm,7
+Chinatown,Medical Incident,Non Life-threatening,91
+Lone Mountain/USF,Medical Incident,,2
+Inner Sunset,Medical Incident,,4
+South of Market,Gas Leak (Natural and LP Gases),Alarm,3
+Glen Park,Citizen Assist / Service Call,Alarm,2
+Oceanview/Merced/Ingleside,Medical Incident,Potentially Life-Threatening,147
+Financial District/South Beach,Outside Fire,Fire,15
+North Beach,Citizen Assist / Service Call,Alarm,3
+Nob Hill,Medical Incident,Potentially Life-Threatening,330
+Tenderloin,Elevator / Escalator Rescue,Alarm,25
+Marina,Medical Incident,Potentially Life-Threatening,180
+Western Addition,Medical Incident,Alarm,5
+Visitacion Valley,Citizen Assist / Service Call,Alarm,3
+Financial District/South Beach,Outside Fire,Alarm,30
+Bayview Hunters Point,Medical Incident,Alarm,2
+Haight Ashbury,Gas Leak (Natural and LP Gases),Alarm,12
+Excelsior,Fuel Spill,Alarm,1
+Mission Bay,Alarms,Alarm,71
+Hayes Valley,Medical Incident,Non Life-threatening,144
+Financial District/South Beach,Medical Incident,Potentially Life-Threatening,669
+Sunset/Parkside,Vehicle Fire,Fire,5
+Japantown,Medical Incident,Non Life-threatening,62
+Nob Hill,Outside Fire,Fire,9
+Excelsior,Other,Alarm,1
+Oceanview/Merced/Ingleside,Outside Fire,Fire,6
+Hayes Valley,Citizen Assist / Service Call,Alarm,3
+Tenderloin,Gas Leak (Natural and LP Gases),Alarm,11
+Bernal Heights,Medical Incident,Potentially Life-Threatening,198
+Presidio Heights,Medical Incident,Potentially Life-Threatening,60
+Visitacion Valley,Medical Incident,Non Life-threatening,45
+Lone Mountain/USF,Structure Fire,Alarm,26
+South of Market,Elevator / Escalator Rescue,Alarm,8
+Inner Sunset,Structure Fire,Alarm,30
+Castro/Upper Market,Traffic Collision,Non Life-threatening,2
+South of Market,Structure Fire,Alarm,130
+Golden Gate Park,Medical Incident,Potentially Life-Threatening,39
+Outer Richmond,Traffic Collision,Non Life-threatening,7
+Oceanview/Merced/Ingleside,Vehicle Fire,Fire,5
+Sunset/Parkside,Outside Fire,Fire,17
+Tenderloin,Medical Incident,,57
+Japantown,Citizen Assist / Service Call,Alarm,2
+Seacliff,Electrical Hazard,Alarm,1
+North Beach,Gas Leak (Natural and LP Gases),Alarm,6
+Oceanview/Merced/Ingleside,Alarms,Alarm,22
+Hayes Valley,Elevator / Escalator Rescue,Alarm,2
+Japantown,Structure Fire,Alarm,17
+Nob Hill,Alarms,Alarm,102
+Glen Park,Gas Leak (Natural and LP Gases),Alarm,3
+Lincoln Park,Other,Alarm,2
+Potrero Hill,Structure Fire,Fire,13
+South of Market,Citizen Assist / Service Call,Alarm,23
+Outer Richmond,Other,Alarm,6
+Glen Park,Medical Incident,,1
+Castro/Upper Market,Other,Alarm,10
+Inner Sunset,Citizen Assist / Service Call,Alarm,8
+Mission Bay,Outside Fire,Fire,5
+Lone Mountain/USF,Citizen Assist / Service Call,Alarm,12
+Hayes Valley,Structure Fire,Alarm,80
+North Beach,Medical Incident,,10
+Russian Hill,Electrical Hazard,Alarm,1
+Presidio,Traffic Collision,Potentially Life-Threatening,4
+Twin Peaks,Traffic Collision,Potentially Life-Threatening,6
+Presidio Heights,Medical Incident,Alarm,1
+South of Market,Medical Incident,Non Life-threatening,680
+Portola,Smoke Investigation (Outside),Alarm,3
+Sunset/Parkside,Alarms,Alarm,45
+Chinatown,Medical Incident,,1
+West of Twin Peaks,Smoke Investigation (Outside),Alarm,1
+Noe Valley,Medical Incident,Potentially Life-Threatening,121
+Potrero Hill,Medical Incident,,61
+Potrero Hill,Gas Leak (Natural and LP Gases),Alarm,7
+Inner Richmond,Other,Alarm,1
+Bayview Hunters Point,Medical Incident,Potentially Life-Threatening,758
+Western Addition,Medical Incident,Potentially Life-Threatening,384
+Mission,Smoke Investigation (Outside),Alarm,6
+Excelsior,Traffic Collision,Non Life-threatening,6
+Lone Mountain/USF,Medical Incident,Non Life-threatening,73
+Inner Sunset,Medical Incident,Non Life-threatening,92
+Outer Mission,Electrical Hazard,Alarm,3
+Visitacion Valley,Structure Fire,Alarm,2
+Treasure Island,Medical Incident,Potentially Life-Threatening,63
+Noe Valley,Outside Fire,Fire,2
+Golden Gate Park,Alarms,Alarm,3
+Japantown,Gas Leak (Natural and LP Gases),Alarm,3
+North Beach,Structure Fire,Alarm,38
+Hayes Valley,Medical Incident,,5
+Lincoln Park,Smoke Investigation (Outside),Alarm,2
+Visitacion Valley,Structure Fire,Fire,13
+Lakeshore,High Angle Rescue,Fire,6
+Nob Hill,Medical Incident,Alarm,2
+Glen Park,Structure Fire,Alarm,41
+Bernal Heights,Alarms,Alarm,33
+Treasure Island,Outside Fire,Fire,2
+Castro/Upper Market,Smoke Investigation (Outside),Alarm,1
+Haight Ashbury,Medical Incident,Non Life-threatening,93
+Bayview Hunters Point,Outside Fire,Fire,37
+Western Addition,Outside Fire,Fire,7
+Tenderloin,Citizen Assist / Service Call,Alarm,36
+Outer Richmond,Smoke Investigation (Outside),Alarm,1
+Hayes Valley,Gas Leak (Natural and LP Gases),Alarm,2
+Presidio Heights,Alarms,Alarm,34
+Pacific Heights,Other,Non Life-threatening,1
+West of Twin Peaks,Other,Alarm,11
+Financial District/South Beach,Alarms,Alarm,231
+Sunset/Parkside,Medical Incident,Alarm,3
+Visitacion Valley,Medical Incident,,2
+Noe Valley,Vehicle Fire,Fire,2
+Potrero Hill,Elevator / Escalator Rescue,Alarm,2
+North Beach,Water Rescue,Fire,14
+Portola,Other,Alarm,5
+Tenderloin,Medical Incident,Non Life-threatening,982
+Pacific Heights,Traffic Collision,Potentially Life-Threatening,2
+Bayview Hunters Point,Vehicle Fire,Fire,24
+Marina,Alarms,Alarm,104
+Western Addition,Vehicle Fire,Fire,2
+Potrero Hill,Structure Fire,Alarm,21
+Japantown,Structure Fire,Fire,12
+Chinatown,Structure Fire,Alarm,44
+Mission,Other,Alarm,18
+Visitacion Valley,Gas Leak (Natural and LP Gases),Alarm,2
+Mission Bay,Medical Incident,Potentially Life-Threatening,171
+Treasure Island,Vehicle Fire,Fire,2
+Inner Richmond,Smoke Investigation (Outside),Alarm,1
+Excelsior,Medical Incident,Potentially Life-Threatening,337
+Lone Mountain/USF,Traffic Collision,Potentially Life-Threatening,7
+Inner Sunset,Traffic Collision,Potentially Life-Threatening,8
+Sunset/Parkside,Smoke Investigation (Outside),Alarm,3
+Portola,Alarms,Alarm,21
+Treasure Island,Traffic Collision,Non Life-threatening,37
+Bayview Hunters Point,Traffic Collision,Non Life-threatening,19
+South of Market,Other,Non Life-threatening,12
+South of Market,HazMat,Fire,2
+Western Addition,Traffic Collision,Non Life-threatening,8
+Financial District/South Beach,Other,Alarm,19
+West of Twin Peaks,Alarms,Alarm,73
+Russian Hill,Medical Incident,,1
+Inner Sunset,Other,Non Life-threatening,4
+Noe Valley,Traffic Collision,Non Life-threatening,4
+Lone Mountain/USF,Other,Non Life-threatening,1
+Mission,Alarms,Alarm,220
+North Beach,Electrical Hazard,Alarm,1
+Financial District/South Beach,Fuel Spill,Alarm,1
+South of Market,Traffic Collision,Potentially Life-Threatening,39
+Glen Park,Electrical Hazard,Alarm,2
+Lakeshore,Alarms,Alarm,79
+Marina,Other,Alarm,3
+Potrero Hill,Electrical Hazard,Alarm,2
+Tenderloin,HazMat,Alarm,3
+Presidio,Medical Incident,Non Life-threatening,18
+Twin Peaks,Medical Incident,Non Life-threatening,25
+Golden Gate Park,Other,Alarm,1
+Outer Mission,Gas Leak (Natural and LP Gases),Alarm,3
+Nob Hill,Smoke Investigation (Outside),Alarm,1
+Bernal Heights,Fuel Spill,Alarm,1
+Chinatown,Electrical Hazard,Alarm,1
+Outer Mission,Medical Incident,,1
+Presidio Heights,Other,Alarm,1
+Outer Richmond,Medical Incident,Alarm,3
+Bernal Heights,Other,Alarm,1
+Excelsior,Vehicle Fire,Fire,2
+Financial District/South Beach,Smoke Investigation (Outside),Alarm,1
+Portola,Medical Incident,Alarm,3
+Mission Bay,Traffic Collision,Non Life-threatening,2
+Pacific Heights,Medical Incident,Non Life-threatening,122
+Tenderloin,Traffic Collision,Potentially Life-Threatening,29
+Sunset/Parkside,Other,Alarm,4
+Russian Hill,Structure Fire,Alarm,14
+West of Twin Peaks,Medical Incident,Alarm,1
+Treasure Island,Watercraft in Distress,Fire,12
+Marina,Smoke Investigation (Outside),Alarm,2
+Seacliff,Citizen Assist / Service Call,Alarm,5
+Financial District/South Beach,Train / Rail Incident,Fire,8
+McLaren Park,Citizen Assist / Service Call,Alarm,1
+Tenderloin,Other,Non Life-threatening,12
+Inner Richmond,Alarms,Alarm,36
+Nob Hill,Other,Alarm,3
+Lincoln Park,Alarms,Alarm,9
+Pacific Heights,Citizen Assist / Service Call,Alarm,7
+Golden Gate Park,Smoke Investigation (Outside),Alarm,1
+Excelsior,Outside Fire,Fire,1
+Oceanview/Merced/Ingleside,Other,Alarm,2
+Visitacion Valley,Electrical Hazard,Alarm,1
+Outer Mission,Structure Fire,Alarm,3
+South of Market,HazMat,Alarm,5
+Financial District/South Beach,Other,Fire,1
+Nob Hill,Fuel Spill,Alarm,1
+Bernal Heights,Smoke Investigation (Outside),Alarm,1
+Outer Richmond,Alarms,Alarm,82
+Castro/Upper Market,Alarms,Alarm,65
+Seacliff,Medical Incident,Non Life-threatening,10
+Oceanview/Merced/Ingleside,Fuel Spill,Alarm,3
+Nob Hill,Traffic Collision,Non Life-threatening,4
+Chinatown,Other,Non Life-threatening,1
+Pacific Heights,Elevator / Escalator Rescue,Alarm,3
+Inner Richmond,Outside Fire,Fire,2
+Potrero Hill,Other,Non Life-threatening,1
+Castro/Upper Market,Vehicle Fire,Fire,3
+Oceanview/Merced/Ingleside,Traffic Collision,Non Life-threatening,4
+Hayes Valley,Confined Space / Structure Collapse,Fire,6
+Outer Mission,Citizen Assist / Service Call,Alarm,8
+Chinatown,Traffic Collision,Potentially Life-Threatening,10
+Potrero Hill,Traffic Collision,Potentially Life-Threatening,7
+Russian Hill,Medical Incident,Non Life-threatening,70
+Pacific Heights,Structure Fire,Alarm,55
+Bernal Heights,Oil Spill,Alarm,1
+Castro/Upper Market,Outside Fire,Fire,20
+South of Market,Electrical Hazard,Alarm,1
+Mission Bay,Other,Alarm,1
+Bayview Hunters Point,Smoke Investigation (Outside),Alarm,7
+Glen Park,Traffic Collision,Potentially Life-Threatening,3
+Outer Richmond,Outside Fire,Fire,17
+Western Addition,Smoke Investigation (Outside),Alarm,1
+Mission,Medical Incident,Potentially Life-Threatening,1120
+Sunset/Parkside,Traffic Collision,Non Life-threatening,14
+Twin Peaks,Medical Incident,,1
+North Beach,Traffic Collision,Potentially Life-Threatening,7
+Seacliff,Structure Fire,Alarm,12
+South of Market,Odor (Strange / Unknown),Alarm,2
+McLaren Park,Structure Fire,Alarm,6
+Lakeshore,Medical Incident,Potentially Life-Threatening,122
+Portola,Medical Incident,Potentially Life-Threatening,105
+Mission,Outside Fire,Alarm,2
+Twin Peaks,Gas Leak (Natural and LP Gases),Alarm,4
+Presidio,Gas Leak (Natural and LP Gases),Alarm,2
+Excelsior,Alarms,Alarm,18
+Russian Hill,Citizen Assist / Service Call,Alarm,4
+Lone Mountain/USF,Odor (Strange / Unknown),Alarm,2
+None,Medical Incident,Non Life-threatening,4
+Lone Mountain/USF,Electrical Hazard,Alarm,2
+Outer Mission,Medical Incident,Non Life-threatening,134
+Inner Sunset,Electrical Hazard,Alarm,3
+West of Twin Peaks,Medical Incident,Potentially Life-Threatening,260
+Bernal Heights,Confined Space / Structure Collapse,,7
+North Beach,Other,Non Life-threatening,1
+Pacific Heights,Medical Incident,,1
+Lakeshore,Outside Fire,Fire,4
+Castro/Upper Market,Medical Incident,Potentially Life-Threatening,284
+Outer Richmond,Medical Incident,Potentially Life-Threatening,301
+Mission,Outside Fire,Fire,53
+West of Twin Peaks,Outside Fire,Fire,1
+Haight Ashbury,Electrical Hazard,Alarm,1
+Pacific Heights,Gas Leak (Natural and LP Gases),Alarm,3
+Portola,Outside Fire,Fire,5
+Bernal Heights,Traffic Collision,Non Life-threatening,19
+Noe Valley,Fuel Spill,Alarm,1
+Hayes Valley,Other,Non Life-threatening,1
+Mission,Vehicle Fire,Fire,2
+Financial District/South Beach,Traffic Collision,Non Life-threatening,43
+Western Addition,Other,Alarm,10
+McLaren Park,Gas Leak (Natural and LP Gases),Alarm,3
+Japantown,Traffic Collision,Potentially Life-Threatening,2
+Bayview Hunters Point,Other,Alarm,10
+Lakeshore,Vehicle Fire,Fire,3
+Inner Richmond,Medical Incident,Potentially Life-Threatening,111
+Portola,Vehicle Fire,Fire,4
+Tenderloin,Electrical Hazard,Alarm,2
+Noe Valley,Other,Alarm,5
+Excelsior,Medical Incident,Alarm,4
+Twin Peaks,Structure Fire,Alarm,10
+Hayes Valley,Traffic Collision,Potentially Life-Threatening,7
+Marina,Traffic Collision,Non Life-threatening,2
+Bayview Hunters Point,Fuel Spill,Alarm,1
+Tenderloin,Odor (Strange / Unknown),Alarm,1
+Western Addition,Fuel Spill,Alarm,1

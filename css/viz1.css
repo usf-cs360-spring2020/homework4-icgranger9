@@ -1,0 +1,25 @@
+#detailsTable{
+	font-size: small;
+	width: auto;
+
+	background: rgba(221, 221, 221, .75);
+	border-radius: 10px;
+
+}
+
+
+/* svg elements are styled differently from html elements */
+.node {
+	stroke: silver;
+	stroke-width: 1px;
+}
+
+.link {
+	fill: none;
+	stroke: silver;
+	stroke-width: 1px;
+}
+
+.selected {
+	stroke: red !important;
+}
