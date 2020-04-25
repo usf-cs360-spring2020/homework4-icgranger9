@@ -58,12 +58,12 @@
 					<!-- Left navbar items -->
 					<div class="navbar-start">
 						<a class="navbar-item" href="#viz">
-							<span class="icon"><i class="fas fa-map"></i></span>
-							<span>Cluster Viz</span>
+							<span class="icon"><i class="fas fa-sitemap"></i></span>
+							<span>Cluster</span>
 						</a>
 						<a class="navbar-item" href="./viz2.html">
-							<span class="icon"><i class="fas fa-map"></i></span>
-							<span>Pack Viz</span>
+							<span class="icon"><i class="fas fa-th"></i></span>
+							<span>Treemap</span>
 						</a>
 
 					</div>
@@ -91,12 +91,12 @@
 				<!-- Begin page content -->
 				<div class="content">
 					<h1 class="title">
-						Choropleth Map
+						Node Link Visualization
 					</h1>
 
-					<p> For this visualization, I used a choropleth map to convey which neighborhood has the most abandoned vehicles. In this context, a vehicle is considered abandoned if it has been left in the same place for 72 hours or more. When I first began looking at this data, I expected to see many reports of abandoned vehicles in the Down Town / Financial District neighborhoods, because I reasoned that those areas see the most traffic, and are in high demand for parking if a vehicle is abandoned. However, as you can see down below, that is not the case. The Outer Sunset has by far the most reports of abandoned vehicles, which does make sense in retrospect. That neighborhood is more suburban, with many more people owning cars. Unfortunately, this is an issue common with choropleth maps. Because the majority of people with cars are in the Outer Sunset, the data is skewed that direction. The obvious fix to this is to use a ratio of vehicles so that all neighborhoods are on the same scale. However, because census data for this year is difficult to find (especially at this granularity), my only option was to show the raw count of abandoned vehicles.</p>
+					<p> For this implementation, I created a node link visualization, using clustered hierarchical data, on a polar co-ordinate system. As mentioned elsewhere, my goal for this visualization is to see the different types of fire department calls that came in on April 20th (4/20). In particular, I think that this implementation is best at relating different emergencies back to the neighborhoob that the occured in, making it easier to see which part of the city celebrated the most. To do this, I organized the data into a hierarchy, where the root node contains all emergencies that occurred in the city to the desired date. From there, it is broken down into the different neighborhoods that make up the city, and below that it displays all emergencies that occurred in that neighborhood. In order to show how many of a given type of emergency there was, I used a color scale on the leaf nodes to convey a higher rate of emergencies.</p>
 
-					<p>For interactivity, I provided details on demand, so if a user hovers over any neighborhood on the map, a table appears with the neighborhood name, and a count of the vehicles which were reported abandoned.</p>
+					<p>For interactivity, I provided details on demand, so if a user hovers over any node, a table appears with the  relevant information for that level, such as the neighborhood name, or the type and count of emergencies. Also, when a node is hovered over, it's path back to the root will be give a red stroke. And finally, I applied a filter if a node is hovered on for more than a second, all other nodes fade away, making it easier to see in crowded environments.</p>
 
 					<h2 id="visualizations">D3 Implementation</h2>
 
@@ -116,7 +116,7 @@
 
 						<figcaption>
 							Created By: Ian Granger <br>
-							Data Source: <a href="https://data.sfgov.org/City-Infrastructure/311-Cases/vw6y-z8j6/">311 Cases</a> (<a href="https://data.sfgov.org/Geographic-Locations-and-Boundaries/SF-Find-Neighborhoods/pty2-tcw4">Neighborhoods</a>)
+							Data Source: <a href="https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3">Fire Department Calls</a>
 						</figcaption>
 					</figure>
 

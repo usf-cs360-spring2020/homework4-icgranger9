@@ -58,11 +58,11 @@
 					<!-- Left navbar items -->
 					<div class="navbar-start">
 						<a class="navbar-item" href="./pages/viz1.html">
-							<span class="icon"><i class="fas fa-map"></i></span>
+							<span class="icon"><i class="fas fa-sitemap"></i></span>
 							<span>Cluster</span>
 						</a>
 						<a class="navbar-item" href="./pages/viz2.html">
-							<span class="icon"><i class="fas fa-map"></i></span>
+							<span class="icon"><i class="fas fa-th"></i></span>
 							<span>Treemap</span>
 						</a>
 					</div>
@@ -70,7 +70,7 @@
 					<!-- Right navbar items -->
 					<div class="navbar-end">
 						<!-- TODO: Update as needed -->
-						<a class="navbar-item" href="#about" title="About">
+						<a class="navbar-item" href="#grade" title="Grade">
 							<span class="icon"><i class="fas fa-tasks"></i></span>
 							<span>Grade</span>
 						</a>
@@ -97,22 +97,20 @@
 				<div class="content">
 					<h1 class="title" id="overview"> Overview </h1>
 
-					<p>This is the home page for my homework 3 implementation. For this project, the base requirements for an was to implement a some form of map in D3, and to then add two levels of interactivity on top of that. To meet this requirement, I was able to fully implement a <b>Choropleth Map</b>, as well as one level of interactivity (details on demand). My inspiration for this project was to build a visualization that I thought was unique, and would clearly convey the information that I wanted to share. I believe I was able to achieve this goal.</p>
+					<p>This is the home page for my homework 4 implementation. For this project, I was able to fully implement a node link visualization  with a <b>Cluster</b>, and a  space-filling visualization using a <b>Treemap</b>. The goal when creating these visualizations was to see the different types of fire department calls that occurred of April 20th. Because of San Francisco's unique ties to April 20th (4/20), I expected to see calls due excess smoke, or potentially some unusual medical calls. In addition to this, I was curious to see if I could tell which neighborhoods (such as maybe Haight Ashbury) participated the most. While Each of the visualizations that I created have their different pros and cons, I believe that they provide us with some interesting insights into how San Francisco celebrated 4/20.</p>
 
 
 					<h2 id="data">Data</h2>
 
-					<p>This data set is composed of information over 4 million reports to San Francisco's 311 hotline, which was made available by the city <a href="https://data.sfgov.org/City-Infrastructure/311-Cases/vw6y-z8j6">here</a>. Using their public API, I was able to filter by a couple relevant columns, to get the exact data I wanted. The relevant columns that I used in this visualization are:</p>
+					<p>This data set is composed of information over service calls to San Francisco's Fire Department, which was made available by the city <a href="https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3">here</a>. Using their public website, I was able to filter by the relevant date, and then roll up the data into a few columns, with approximately 120 rows of data. The relevant columns that I used in these visualizations are:</p>
 
 
 					<ul>
-						<li><strong>Opened:</strong> The Date and time this report was opened. I used this column to filter down to only cases that were opened in February.</li>
+						<li><strong>Neighborhooods</strong> The neighborhood that is relevant to call.</li>
 
-						<li><strong>Category:</strong> The category of this report. I filtered down the category to focus on just abandoned vehicles. </li>
+						<li><strong>Call Type</strong> The category of this report.  </li>
 
-						<li><strong>Request Details:</strong> This column contains additional information about the request. I used it to filter out reports with "DPT Abandoned Vehicles Low". This is a special case designate by the city, which I deemed irrelevant to this visualization. </li>
-
-						<li><strong>Neighborhood:</strong> This is the neighborhood that the report is from. In D3, I used this column to generate a count of abandoned vehicles for each neighborhood. </li>
+						<li><strong>Call Number:</strong> This column is a unique identifier that was used in the rollup to generate a count for each emergency, by neighborhood. </li>
 
 					</ul>
 
@@ -124,14 +122,14 @@
 					<p class="buttons">
 						<a class="button is-large is-success" href="./pages/viz1.html">
 							<span class="icon is-success">
-								<i class="fas fa-map"></i>
+								<i class="fas fa-sitemap"></i>
 							</span>
 							<span>Cluster</span>
 						</a>
 
 						<a class="button is-large is-success" href="./pages/viz2.html">
 							<span class="icon is-success">
-								<i class="fas fa-map"></i>
+								<i class="fas fa-th"></i>
 							</span>
 							<span>Treemap</span>
 						</a>
@@ -171,14 +169,14 @@
 
 							<tr>
 								<td>B</td>
-								<td><i class="has-text-success far fa-check-circle"></i></td>
+								<td><i class="has-text-success fas fa-check-circle"></i></td>
 								<td>This grade was achieved because I was able to implement a space-filling visualization in D3.</td>
 							</tr>
 
 							<tr>
 								<td>A</td>
-								<td><i class="has-text-danger fas fa-times-circle"></i></td>
-								<td>This grade was not achieved, as I was not able to implement data filtering.</td>
+								<td><i class="has-text-success fas fa-check-circle"></i></td>
+								<td>This grade was achieved, as I implemented data filtering on the node link visualization.</td>
 							</tr>
 						</tbody>
 					</table>

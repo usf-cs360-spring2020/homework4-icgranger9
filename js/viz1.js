@@ -220,7 +220,7 @@ let createCluster = function(hData) {
 			.cells(5)
 			.labelFormat(d3.format(".0f"))
 			.orient("horizontal")
-			.title("Legend")
+			.title("Leaf Color Legend")
 			.labelDelimiter(" - ")
 			.scale(leafColor);
 

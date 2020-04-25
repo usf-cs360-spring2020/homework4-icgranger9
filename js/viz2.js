@@ -8,7 +8,7 @@ let createTreemap = function(hData) {
 
 	const svg = d3.select("body").select("svg#vis");
 	const plot = svg.select("g#plot")
-		.attr("transform", translate(pad, pad));
+		.attr("transform", translate(pad, pad+66));
 
 	const g = {
 		legend:  svg.select("g#legend"),
@@ -87,7 +87,7 @@ let createTreemap = function(hData) {
 	addInteractivity();
 
 	// Draw Legend
-	// drawLegend();
+	drawLegend();
 
 	function addInteractivity() {
 		rects.on('mouseover.highlight', function(d) {
@@ -187,7 +187,7 @@ let createTreemap = function(hData) {
 			.cells(5)
 			.labelFormat(d3.format(".0f"))
 			.orient("horizontal")
-			.title("Legend")
+			.title("Leaf Color Legend")
 			.labelDelimiter(" - ")
 			.scale(leafColor);
 
